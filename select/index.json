@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "褪せない - Asenai (feat. Riria.)",
+  "base_artist": "MIMiNARI",
+  "createdAt": "2026-03-28T09:38:13.549072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "褪せない",
+      "artist": "MIMiNARI",
+      "has_synced": false,
+      "path": "select/01_褪せない_MIMiNARI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "褪せない",
+      "artist": "MIMiNARI, Riria.",
+      "has_synced": false,
+      "path": "select/pl_01_褪せない_MIMiNARI,_Riria..txt"
+    }
+  ]
+}
